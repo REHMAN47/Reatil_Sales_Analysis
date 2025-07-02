@@ -3,7 +3,7 @@
 A dynamic and interactive Excel Dashboard that visualizes key performance indicators (KPIs), trends, and insights for sales data. This project is ideal for understanding how to create data-driven dashboards using Excel formulas, PivotTables, slicers, and charts.
 
 ## Dashboard File
-My final dashboard is in [sales_analysis_dashboard](/Sales_Dataset/retail_sales_analysis.xlsx)
+My final dashboard is in [sales_analysis_dashboard](/Final_Dashboard/retail_sales_analysis.xlsx)
 
 ## Project Overview
 This Excel Dashboard was built to analyze and present sales data in a clear, intuitive format. It includes:
